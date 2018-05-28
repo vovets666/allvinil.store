@@ -47,9 +47,9 @@
 						?>
 
 						<span class="credit">
-							<?php esc_html_e( 'Bard Theme by ', 'bard' ); ?>
-							<a href="<?php echo esc_url( 'http://wp-royal.com/' ); ?>">
-							<?php esc_html_e( 'Royal-Flush', 'bard' ); ?>
+							<?php esc_html_e( 'Веб студия ', 'bard' ); ?>
+							<a href="<?php echo esc_url( 'http://сайт-этопросто.рф/' ); ?>">
+							<?php esc_html_e( 'сайт-этопросто', 'bard' ); ?>
 							</a>
 						</span>
 					</div>
